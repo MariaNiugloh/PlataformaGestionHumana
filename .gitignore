@@ -1,0 +1,9 @@
+# Dependencias instaladas por npm, no es necesario subirlas al repositorio
+node_modules/
+
+# Variables de entorno y credenciales, no debemos subirlo porque contiene información sensible
+.env
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
